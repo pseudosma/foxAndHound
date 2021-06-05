@@ -1,0 +1,18 @@
+[gd_resource type="ShaderMaterial" load_steps=3 format=2]
+
+[ext_resource path="res://materials/road.shader" type="Shader" id=1]
+[ext_resource path="res://materials/raod.jpg" type="Texture" id=2]
+
+[resource]
+
+render_priority = 1
+shader = ExtResource( 1 )
+shader_param/u_resolution = Vector2( 180, 180 )
+shader_param/col = Plane( 0.1, 0.1, 0.1, 1 )
+shader_param/scaleAdjustY = 1.0
+shader_param/scaleAdjustX = 1.0
+shader_param/translateY = null
+shader_param/translateX = null
+shader_param/t = ExtResource( 2 )
+_sections_unfolded = [ "shader_param" ]
+

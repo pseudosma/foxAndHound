@@ -1,0 +1,12 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=2]
+
+[ext_resource path="res://materials/celShader.shader" type="Shader" id=1]
+
+[resource]
+
+render_priority = 1
+shader = ExtResource( 1 )
+shader_param/divisions = 2.0
+shader_param/col = Plane( 0.4, 0.4, 0.4, 0.1 )
+_sections_unfolded = [ "shader_param" ]
+
