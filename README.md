@@ -9,7 +9,7 @@ The AI we put in them was too damned sophisticated; a little too much like us. I
 
 *The only safe spaces are uninhabited.*
 
-Fox and Hound work-in-progress dark endless runner with an emphasis on stealthily evading enemies in a risk/reward system.
+Fox and Hound work-in-progress dark endless runner with an emphasis on stealthily evading enemies in a risk/reward system. Use the arrow keys to drive. Down is brakes/reverse.
 
 ## Techniques and Technology
 
